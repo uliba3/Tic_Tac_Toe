@@ -1,0 +1,10 @@
+#board div {
+    display: flex;
+}
+
+#board div div {
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    width: 50px;
+}
